@@ -1,4 +1,4 @@
-# jem-privacy-policy
+# Jem Privacy Policy
 Official privacy policy for the Jem Payments iOS app.
 
 PRIVACY POLICY
